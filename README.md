@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manisha-300
+- 👋 Hi, I’m @mnmn32
 - 👀 I’m interested in learning new things and wants to make a change 
 - 🌱 I’m currently pursuing graduation in btech computer science engineering
 - 💞️ I’m looking to collaborate on new projects on github
